@@ -9,6 +9,7 @@ Extended options available from the Customizer:
 2. Header background color
 3. Custom logo
 4. Excerpts or full content in index and archive pages
+5. Resposive Design
 
 
 ### Featured Images
